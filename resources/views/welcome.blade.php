@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Codepolitan Attendance</title>
+  <title>Attendance Live ATIE YAPIS DOMPU</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -20,12 +20,14 @@
 <!-- Automatic element centering -->
 <div class="lockscreen-wrapper">
   <div class="lockscreen-logo">
-    <a href="#"><b>Attendance</b>Live</a>
+    <img src="{{'assets/dist/img/logo.png'}}"/>
+    <br>
+    <a href="#"><b>LIVE CONTROL APP</b></a>
   </div>
 
   <!-- START LOCK SCREEN ITEM -->
   <div class="lockscreen-item text-center">
-        <h2>Welcome Page</h2>
+        <h2>STIE YAPIS DOMPU</h2>
   </div>
   <!-- /.lockscreen-item -->
   <div class="help-block text-center">
@@ -35,7 +37,7 @@
     <a href="{{ url('login') }}">login</a>
   </div>
   <div class="lockscreen-footer text-center">
-    Copyright &copy; 2014-2019 <b><a href="http://adminlte.io" class="text-black">AdminLTE.io</a></b><br>
+    Copyright &copy; 2020-2021 <b><a href="https://stieyapisdompu.com" class="text-black">STIE YAPIS DOMPU</a></b><br>
     All rights reserved
   </div>
 </div>
