@@ -3,7 +3,9 @@
 @section('content')
 <div class="login-box">
     <div class="login-logo">
-        <a href="#"><b>Attendance</b>Live</a>
+        <img src="{{'assets/dist/img/logo.png'}}"/>
+        <br>
+        <a href="#"><b>LIVE CONTROL APP</b></a>
     </div>
     <!-- /.login-logo -->
     <div class="card">
